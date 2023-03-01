@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-tevent",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "ESLint config for Tevent",
   "keywords": [
     "eslint",
@@ -17,9 +17,9 @@
   "dependencies": {
     "@react-native-community/eslint-config": "^3.2.0",
     "@rushstack/eslint-patch": "^1.2.0",
-    "@typescript-eslint/eslint-plugin": "^5.51.0",
-    "@typescript-eslint/parser": "^5.51.0",
-    "eslint": "^8.33.0",
+    "@typescript-eslint/eslint-plugin": "^5.54.0",
+    "@typescript-eslint/parser": "^5.54.0",
+    "eslint": "^8.35.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-import-resolver-typescript": "^3.5.3",
     "eslint-plugin-import": "^2.27.5",
@@ -27,7 +27,7 @@
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-native-a11y": "^3.3.0",
-    "eslint-plugin-testing-library": "^5.10.1",
+    "eslint-plugin-testing-library": "^5.10.2",
     "eslint-plugin-unicorn": "^45.0.2"
   },
   "peerDependencies": {
