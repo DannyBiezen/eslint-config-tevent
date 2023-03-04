@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-tevent",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "ESLint config for Tevent",
   "keywords": [
     "eslint",
@@ -28,7 +28,7 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-native-a11y": "^3.3.0",
     "eslint-plugin-testing-library": "^5.10.2",
-    "eslint-plugin-unicorn": "^45.0.2"
+    "eslint-plugin-unicorn": "^46.0.0"
   },
   "peerDependencies": {
     "typescript": "*"
