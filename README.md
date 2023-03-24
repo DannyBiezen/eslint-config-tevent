@@ -2,6 +2,8 @@
 
 ESLint config for Tevent
 
+> Note that this project currently does not work due to build agent failures when including this plugin (it works fine locally). For now you will need to manually copy the packages and the config to your own project.
+
 ## Installation
 
 You'll first need to install `eslint-plugin-tevent`:
