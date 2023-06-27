@@ -2,6 +2,7 @@
   "name": "eslint-plugin-tevent",
   "version": "0.6.4",
   "description": "ESLint config for Tevent",
+  "homepage": "https://github.com/Tevent/eslint-config-tevent",
   "keywords": [
     "eslint",
     "eslintplugin",
